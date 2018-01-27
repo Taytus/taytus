@@ -1,0 +1,13 @@
+{
+    "name": "taytus/cli",
+    "description": "Menu manager for CLI Applications",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roberto Inetti",
+            "email": "copertus@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
